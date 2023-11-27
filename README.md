@@ -1,9 +1,14 @@
-# Anandsingh Chauhan
+# Researcher
 
 ## Education
 
-- M.Tech, Electrical Engineering | Indian Institute of Technology, Gandhinagar (_August 2020_)          
-- B.E., Electrical Engineering | L.D. College of Engineering (_June 2018_)	 			        		
+- M.Tech, Electrical Engineering
+
+    Indian Institute of Technology, Gandhinagar (_August 2020_)
+        
+- B.E., Electrical Engineering
+
+    L.D. College of Engineering (_June 2018_)	 			        		
 
 ## Work Experience
 **Researcher @ Tata Consultancy Services Limited - Research(_September 2020 - Present_)**
@@ -54,7 +59,7 @@ Supply Chains
 2. Chauhan, A., Baranwal, M., 2022. Reinforcement Learningand heuritsic based real time power grid management, India Patent 202221069773 filed Dec 2, 2022. Patent filed
 3. Pindoriya, N., Chauhan, A., Kuhada R., Jha M., 2022. Universal IoT based smart energy management device, India Patent 202221028935 Patent under review
 
-#### Technical Skills:
+## Technical Skills:
 - Computer Programming: Python, PyTorch, Tensorflow, MATLAB, HTML, SQL
 - Other Professional Software Skills: Simulink, PSSE, LATEX
 - Hardware Skills: Lab-Volt, OPAL-RT, Raspberry Pi
