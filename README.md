@@ -4,13 +4,13 @@
 
 - Master of Technology in Electrical Engineering, Indian Institute of Technology Gandhinagar (IIT GN)
 
-    • CPI : 9.43/10.0
-    • Thesis Topic : Peer to Peer Energy Trading Platform: Hardware and Software Integration
-    • Advisor : Dr. Naran Pindoriya
+    - CPI : 9.43/10.0
+    - Thesis Topic : Peer to Peer Energy Trading Platform: Hardware and Software Integration
+    - Advisor : Dr. Naran Pindoriya
         
 - B.E., Electrical Engineering, L.D. College of Engineering (_June 2018_)
 
-    • CPI : 9.05/10.0 			        		
+    - CPI : 9.05/10.0 			        		
 
 ## Work Experience
 **Researcher @ Tata Consultancy Services Limited - Research(_September 2020 - Present_)**
