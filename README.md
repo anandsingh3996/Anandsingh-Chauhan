@@ -4,7 +4,9 @@
 
 - M.Tech, Electrical Engineering
 
-    Indian Institute of Technology, Gandhinagar (_August 2020_)
+    1. Indian Institute of Technology, Gandhinagar (_August 2020_)
+    2. CPI : 9.43
+    3. Thesis Advisor : Dr. Naran Pindoriya
         
 - B.E., Electrical Engineering
 
