@@ -23,10 +23,10 @@ Supply Chains
 
 ### AI Powered Control and Management of Power Networks 
 - We develop a RL framework, PowRL, to mitigate the effects of unexpected network events, as well as reliably maintain electricity everywhere on the network at all times. The PowRL leverages a novel heuristic for overload management, along with the RL-guided decision making on optimal topology selection to ensure that the grid is operated safely and reliably (with no overloads). Even with its reduced action space, PowRL tops the leaderboard in the L2RPN NeurIPS 2020 challenge (Robustness track) at an aggregate level, while also being the top performing agent in the L2RPN WCCI 2020 challenge. he extension of this work focuses on the development of neural network based learning framework for the optimal generator dispatch and battery scheduling.
+![PowRL Framework](/assets/img/System-and-method.png)
 
 ### Cost-Efficient Multi Node, Multi Product Order Fulfillment in E-commerce
 - We develop an innovative algorithmic framework to optimize cost-to-serve (CTS) in e-commerce, addressing the challenge of efficiently fulfilling dynamically generated orders from multiple customers across various warehouses and vehicle fleets. This project incorporated a two-level decision-making process: firstly, selecting the optimal fulfillment node for each order (including deferral options), and secondly, routing vehicles efficiently to deliver orders from the same warehouse. Our approach combined graph neural networks, reinforcement learning, for node fulfillment and vehicle routing, while considering real-world constraints such as warehouse inventory capacity, vehicle characteristics, and customer delivery time windows.
-- ![PowRL Framework](/assets/img/System-and-method.png)
 
 ### Multi-Robot Task Allocation in a Dynamic Warehouse Management
 - We addressed the challenge of optimizing productivity in modern warehousing by developing a heuristic-guided Reinforcement Learning(RL) agent. The project aimed to minimize both robot travel distance and task execution delays while considering practical constraints like charging/discharging and collision-free navigation. The developed RL based framework outperformed industry-standard practices such as FIFO and a myopic greedy heuristic. This innovative approach enhances efficiency and operational agility in dynamic warehousing environments.
