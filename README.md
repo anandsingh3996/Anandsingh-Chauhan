@@ -1,4 +1,4 @@
-# Researcher
+# Anandsingh Chauhan
 
 ## Education
 
