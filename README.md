@@ -2,7 +2,7 @@
 
 ## Education
 
-- **M.Tech. , Electrical Engineering, Indian Institute of Technology Gandhinagar (IIT GN)**
+- **M.Tech. , Electrical Engineering, Indian Institute of Technology Gandhinagar (_Aug 2020_)**
 
     - CPI     : 9.43/10.0
     - Thesis  : Peer to Peer Energy Trading Platform: Hardware and Software Integration
