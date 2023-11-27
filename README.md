@@ -3,8 +3,8 @@
 ## Education
 
 - M.Tech, Electrical Engineering | Indian Institute of Technology, Gandhinagar (_August 2020_)
-    CPI - 9.43
-    Thesis Advisor : Dr. Naran Pindoriya             
+      CPI - 9.43
+      Thesis Advisor : Dr. Naran Pindoriya             
 - B.E., Electrical Engineering | L.D. College of Engineering (_June 2018_)	 			        		
 
 ## Work Experience
