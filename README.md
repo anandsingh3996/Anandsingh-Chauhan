@@ -13,7 +13,7 @@
     - CPI     : 9.05/10.0 			        		
 
 ## Work Experience
-**Researcher @ Tata Consultancy Services Limited - Research(_September 2020 - Present_)**
+**Researcher @ Tata Consultancy Services Limited - Research (_September 2020 - Present_)**
 - Conducting research under the guidance of Dr. Mayank Baranwal in the Data and Decision Sciences RA
 - Focusing on developing artificial intelligence-driven control systems to ensure the resilient and efficient operation of power networks and supply chain operations
 - Research Interests: Artificial Intelligence, Power Systems, Reinforcement Learning, Graph Neural Networks, and
