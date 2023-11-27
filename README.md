@@ -57,8 +57,8 @@ Supply Chains
 6. Chauhan, A., Suthar, S., Kuhada, R., Cherukuri, S., and Pindoriya, N., Peer-to-Peer Energy Trading Framework: An Experimental Evaluation (Under Review)
 
 ## Patents
-1. Chauhan, A., Baranwal, M., 2023. Reinforcement Learningand heuritsic based real time power grid management , U.S. Patent 18/348,952 filed July 7, 2023. Patent filed
-2. Chauhan, A., Baranwal, M., 2022. Reinforcement Learningand heuritsic based real time power grid management, India Patent 202221069773 filed Dec 2, 2022. Patent filed
+1. Chauhan, A., Baranwal, M., 2023. Reinforcement Learning and heuritsic based real time power grid management , U.S. Patent 18/348,952 filed July 7, 2023. Patent filed
+2. Chauhan, A., Baranwal, M., 2022. Reinforcement Learning and heuritsic based real time power grid management, India Patent 202221069773 filed Dec 2, 2022. Patent filed
 3. Pindoriya, N., Chauhan, A., Kuhada R., Jha M., 2022. Universal IoT based smart energy management device, India Patent 202221028935 Patent under review
 
 ## Technical Skills:
