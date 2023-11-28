@@ -27,8 +27,7 @@ Supply Chains
 
 ### Cost-Efficient Multi Node, Multi Product Order Fulfillment in E-commerce
 - We develop an innovative algorithmic framework to optimize cost-to-serve (CTS) in e-commerce, addressing the challenge of efficiently fulfilling dynamically generated orders from multiple customers across various warehouses and vehicle fleets. This project incorporated a two-level decision-making process: firstly, selecting the optimal fulfillment node for each order (including deferral options), and secondly, routing vehicles efficiently to deliver orders from the same warehouse. Our approach combined graph neural networks, reinforcement learning, for node fulfillment and vehicle routing, while considering real-world constraints such as warehouse inventory capacity, vehicle characteristics, and customer delivery time windows.
-![E-Commerce Supply Chain Illustration](/assets/img/E-commerce-supply-chain-illustration (2).jpg)
-![VRP-C2S Framework](/assets/img/RL-Pipleline.png)
+![VRP-C2S Framework](/assets/img/RL-Pipeline.png)
 
 ### Multi-Robot Task Allocation in a Dynamic Warehouse Management
 - We addressed the challenge of optimizing productivity in modern warehousing by developing a heuristic-guided Reinforcement Learning(RL) agent. The project aimed to minimize both robot travel distance and task execution delays while considering practical constraints like charging/discharging and collision-free navigation. The developed RL based framework outperformed industry-standard practices such as FIFO and a myopic greedy heuristic. This innovative approach enhances efficiency and operational agility in dynamic warehousing environments.
