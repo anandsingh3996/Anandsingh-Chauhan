@@ -3,8 +3,10 @@ Please see a summary of my experience and accomplishments below, you can also vi
 
 You can contact me at: [anandsingh.chauhan@alumni.iitgn.ac.in](mailto:anandsingh.chauhan@alumni.iitgn.ac.in) or connect to LinkedIn at : [Anandsingh Chauhan](https://www.linkedin.com/in/anandsingh3996/)
 # Researcher
-I'm currently a Researcher at TCS Research in the Data and Decision Sciences Research Area. My work is fueled by a genuine passion for harnessing the potential of machine learning and operational research to address complex, real-world challenges. Throughout my career, I've been dedicated to bridging the gap between theory and practical solutions, and I bring with me a wide-ranging skill set that covers various domains. This includes my in-depth expertise in reinforcement learning and its diverse applications, ranging from robust power network control to optimizing supply chains, facilitating peer-to-peer energy trading, and remaining at the cutting edge of innovations in electric vehicle technology. 
+<p align="justify"> 
 
+I'm currently a Researcher at TCS Research in the Data and Decision Sciences Research Area. My work is fueled by a genuine passion for harnessing the potential of machine learning and operational research to address complex, real-world challenges. Throughout my career, I've been dedicated to bridging the gap between theory and practical solutions, and I bring with me a wide-ranging skill set that covers various domains. This includes my in-depth expertise in reinforcement learning and its diverse applications, ranging from robust power network control to optimizing supply chains, facilitating peer-to-peer energy trading, and remaining at the cutting edge of innovations in electric vehicle technology. 
+</p>
 ## Education
 
 - **M.Tech. , Electrical Engineering, Indian Institute of Technology Gandhinagar (_July 2018_ -- _August 2020_)**
