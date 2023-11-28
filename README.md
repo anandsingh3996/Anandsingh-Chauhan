@@ -1,10 +1,10 @@
 
 # Curriculum Vitae
-<p align="justify"> Please see a summary of my experience and accomplishments below, you can also view my full cv as a pdf </p>[here](/files/Anand_Resume.pdf).
+Please see a summary of my experience and accomplishments below, you can also view my full cv as a pdf [here](/files/Anand_Resume.pdf).
 
-You can contact me at: [anandsingh.chauhan@alumni.iitgn.ac.in](mailto:anandsingh.chauhan@alumni.iitgn.ac.in) or connect me to LinkedIn at : [Anandsingh Chauhan](https://www.linkedin.com/in/anandsingh3996/)
+You can contact me at: [anandsingh.chauhan@alumni.iitgn.ac.in](mailto:anandsingh.chauhan@alumni.iitgn.ac.in) or connect me to LinkedIn at: [Anandsingh Chauhan](https://www.linkedin.com/in/anandsingh3996/)
 
-# Researcher
+## Researcher
 <p align="justify"> I'm currently a Researcher at TCS Research in the Data and Decision Sciences Research Area. My work is fueled by a genuine passion for harnessing the potential of machine learning and operational research to address complex, real-world challenges. Throughout my career, I've been dedicated to bridging the gap between theory and practical solutions, and I bring with me a wide-ranging skill set that covers various domains. This includes my in-depth expertise in reinforcement learning and its diverse applications, ranging from robust power network control to optimizing supply chains, facilitating peer-to-peer energy trading, and remaining at the cutting edge of innovations in electric vehicle technology. </p>
 
 ## Education
@@ -13,7 +13,7 @@ You can contact me at: [anandsingh.chauhan@alumni.iitgn.ac.in](mailto:anandsingh
   
     - CPI     : 9.43/10.0
     - Thesis  : Peer to Peer Energy Trading Platform: Hardware and Software Integration
-    - Advisor : Dr. Naran Pindoriya
+    - Advisor : [Dr. Naran Pindoriya](https://naran.people.iitgn.ac.in/)
 
         
 - **B.E., Electrical Engineering, L.D. College of Engineering (_August 2014_ -- _June 2018_)**
@@ -25,8 +25,8 @@ You can contact me at: [anandsingh.chauhan@alumni.iitgn.ac.in](mailto:anandsingh
 **Researcher @ Data & Decision Sciences, Tata Consultancy Services Limited - Research (_September 2020 - Present_)**
 
 - Conducting research under the guidance of [Dr. Mayank Baranwal](https://www.sc.iitb.ac.in/~mayank/) in the Data and Decision Sciences Research Area
-- <p align="justify"> Focusing on developing artificial intelligence-driven control systems to ensure the resilient and efficient operation of power networks and supply chain operations</p>
-- <p align="justify">Research Interests: Artificial Intelligence, Power Systems, Reinforcement Learning, Graph Neural Networks, and Supply Chains </p>
+- Focusing on developing artificial intelligence-driven control systems to ensure the resilient and efficient operation of power networks and supply chain operations
+- Research Interests: Artificial Intelligence, Power Systems, Reinforcement Learning, Graph Neural Networks, and Supply Chains 
 
 ## Projects
 
