@@ -59,17 +59,17 @@ Supply Chains
 - 99.13 Percentile in Electrical Enginerring, GATE 2019
 
 ## Publications
-1. **Chauhan, A.**, Baranwal, M. and Basumatary, A., 2023. [PowRL: A Reinforcement Learning Framework for Robust Management of Power Networks. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2023.] [Acceptance Rate - 19.2%] [download here](https://ojs.aaai.org/index.php/AAAI/article/view/26724)
-2. **Chauhan, A.**, Shelke, O., Pathakota, P., Meisheri, H., Khadilkar, H., and Ravindran, B. [A Learning Approach for Discovering Cost-Efficient Integrated Sourcing and Routing Strategies in E-Commerce.] Accepted at Applied Data Science track at CODS-COMAD 2024.
-3. Shelke, O., Pathakota, P., **Chauhan, A.**, Meisheri, H., Khadilkar, H., and Ravindran, B. [Multi-Agent Learning of Efficient Fulfilment and Routing Strategies in E-Commerce], Accepted at NeurIPS Generalization in Planning workshop 2023.
-4. R. B. Kuhada, **Chauhan, A.**, and N. M. Pindoriya, [Real-time simulation of V2G operation for EV battery], 21st National Power Systems Conference (NPSC), 2020 doi: 10.1109/NPSC49263.2020.9331873
-5. Pal, A., Ojha, A., **Chauhan, A.**, and Baranwal, M. [Heuristic-guided Reinforcement Learning for Multi-robot Task Allocation in Dynamic Warehouse Environments.] (Submitted at the Proceedings of the Autonomous Agents and Multiagent Systems(AAMAS), 2024.)
+1. **Chauhan, A.**, Baranwal, M. and Basumatary, A., 2023. [PowRL: A Reinforcement Learning Framework for Robust Management of Power Networks. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2023] [Acceptance Rate - 19.2%] [download here](https://ojs.aaai.org/index.php/AAAI/article/view/26724)
+2. **Chauhan, A.**, Shelke, O., Pathakota, P., Meisheri, H., Khadilkar, H., and Ravindran, B., [A Learning Approach for Discovering Cost-Efficient Integrated Sourcing and Routing Strategies in E-Commerce] Accepted at Applied Data Science track at CODS-COMAD 2024.
+3. Shelke, O., Pathakota, P., **Chauhan, A.**, Meisheri, H., Khadilkar, H., and Ravindran, B., [Multi-Agent Learning of Efficient Fulfilment and Routing Strategies in E-Commerce] Accepted at NeurIPS Generalization in Planning workshop 2023.
+4. R. B. Kuhada, **Chauhan, A.**, and N. M. Pindoriya, [Real-time simulation of V2G operation for EV battery] 21st National Power Systems Conference (NPSC), 2020 doi: 10.1109/NPSC49263.2020.9331873
+5. Pal, A., Ojha, A., **Chauhan, A.**, and Baranwal, M., [Heuristic-guided Reinforcement Learning for Multi-robot Task Allocation in Dynamic Warehouse Environments] (Submitted at the Proceedings of the Autonomous Agents and Multiagent Systems(AAMAS), 2024.)
 6. **Chauhan, A.**, Suthar, S., Kuhada, R., Cherukuri, S., and Pindoriya, N., [Peer-to-Peer Energy Trading Framework: An Experimental Evaluation](Under Review)
 
 ## Patents
-1. **Chauhan, A.**, Baranwal, M., 2023. [Reinforcement Learning and Heuritsic based Real Time Power Grid Management] , U.S. Patent 18/348,952 filed July 7, 2023. Patent filed
-2. **Chauhan, A.**, Baranwal, M., 2022. [Reinforcement Learning and Heuritsic based Real Time Power Grid Management], India Patent 202221069773 filed Dec 2, 2022. Patent filed
-3. Pindoriya, N., **Chauhan, A.**, Kuhada R., Jha M., 2022. [Universal IoT based Smart Energy Management Device], India Patent 202221028935 (Patent under review)
+1. **Chauhan, A.**, Baranwal, M., 2023. [Reinforcement Learning and Heuritsic based Real Time Power Grid Management] U.S. Patent 18/348,952 filed July 7, 2023. Patent filed
+2. **Chauhan, A.**, Baranwal, M., 2022. [Reinforcement Learning and Heuritsic based Real Time Power Grid Management] India Patent 202221069773 filed Dec 2, 2022. Patent filed
+3. Pindoriya, N., **Chauhan, A.**, Kuhada R., Jha M., 2022. [Universal IoT based Smart Energy Management Device] India Patent 202221028935 (Patent under review)
 
 ## Technical Skills:
 - Computer Programming: Python, PyTorch, Tensorflow, MATLAB, HTML, SQL
