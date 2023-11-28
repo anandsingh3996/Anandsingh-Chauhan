@@ -27,6 +27,7 @@ Supply Chains
 
 ### Cost-Efficient Multi Node, Multi Product Order Fulfillment in E-commerce
 - We develop an innovative algorithmic framework to optimize cost-to-serve (CTS) in e-commerce, addressing the challenge of efficiently fulfilling dynamically generated orders from multiple customers across various warehouses and vehicle fleets. This project incorporated a two-level decision-making process: firstly, selecting the optimal fulfillment node for each order (including deferral options), and secondly, routing vehicles efficiently to deliver orders from the same warehouse. Our approach combined graph neural networks, reinforcement learning, for node fulfillment and vehicle routing, while considering real-world constraints such as warehouse inventory capacity, vehicle characteristics, and customer delivery time windows.
+![E-Commerce Supply Chain Illustration](/assets/img/E-commerce-supply-chain.jpg)
 ![VRP-C2S Framework](/assets/img/RL-Pipeline.png)
 
 ### Multi-Robot Task Allocation in a Dynamic Warehouse Management
@@ -37,9 +38,11 @@ Supply Chains
 
 ### Development of a Prosumer Driven Integrated SMART grid
 - Contributed to the establishment of a cutting-edge hardware and software platform for Peer-to-Peer (P2P) energy trading at IIT Gandhinagar. The project centered around creating a real-world testbed involving two prosumers (Peer A and Peer B) and a consumer (Peer C). Peer A utilized solar PV and battery energy storage, while Peer B featured electric vehicle (EV) charging capabilities with Vehicle-to-Grid (V2G) functionality. Additionally, the testbed seamlessly interfaced with a Blockchain-based digital platform to demonstrate Peer-to-Peer energy trading in a practical environment. This work aligns with the evolving energy sector’s transformation, facilitating the integration of renewables, operational efficiency improvement, and transactive energy dynamics.
+![P2P Energy Trading Testbed](/assets/img/P2P-Trading.jpg)
+
 
 ## Awards & Honours
-- Third prize, Learning to Run Power Network (L2RPN), and RTE France and TU Delft, The Netherlands 2023
+- Third prize, Learning to Run Power Network (L2RPN), RTE France and TU Delft, The Netherlands 2023
 - Platinum Award, Best Technology in Distribution, India Smart Grid Forum (ISGF), 2023
 - Gold Award, Best Technology in Transmission, India Smart Grid Forum (ISGF), 2023
 - POSOCO Power Systems Award for M.Tech thesis, Grid-India(formerly POSOCO) and FITT, 2021
