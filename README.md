@@ -6,7 +6,7 @@ I'm currently a Researcher at TCS Research in the Data and Decision Sciences Res
 
 ## Education
 
-- **M.Tech. , Electrical Engineering, Indian Institute of Technology Gandhinagar (_July 2018 _ -- _August 2020_)**
+- **M.Tech. , Electrical Engineering, Indian Institute of Technology Gandhinagar (_July 2018_ -- _August 2020_)**
   
     - CPI     : 9.43/10.0
     - Thesis  : Peer to Peer Energy Trading Platform: Hardware and Software Integration
