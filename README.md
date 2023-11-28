@@ -1,4 +1,4 @@
-
+# Curriculum Vitae
 Please see a summary of my experience and accomplishments below, you can also view my full [CV](/files/Anand_Resume.pdf).
 
 You can contact me at: [anandsingh.chauhan@alumni.iitgn.ac.in](mailto:anandsingh.chauhan@alumni.iitgn.ac.in) 
