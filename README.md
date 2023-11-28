@@ -6,18 +6,18 @@ I'm currently a Researcher at TCS Research in the Data and Decision Sciences Res
 
 ## Education
 
-- **M.Tech. , Electrical Engineering, Indian Institute of Technology Gandhinagar (_Aug 2020_)**
+- **M.Tech. , Electrical Engineering, Indian Institute of Technology Gandhinagar (_July 2018 _ -- _August 2020_)**
   
     - CPI     : 9.43/10.0
     - Thesis  : Peer to Peer Energy Trading Platform: Hardware and Software Integration
     - Advisor : Dr. Naran Pindoriya
         
-- **B.E., Electrical Engineering, L.D. College of Engineering (_June 2018_)**
+- **B.E., Electrical Engineering, L.D. College of Engineering (_August 2014_ -- _June 2018_)**
 
     - CPI     : 9.05/10.0 			        		
 
 ## Work Experience
-**Researcher @ Tata Consultancy Services Limited - Research (_September 2020 - Present_)**
+**Researcher @ Data & Decision Sciences, Tata Consultancy Services Limited - Research (_September 2020 - Present_)**
 - Conducting research under the guidance of Dr. Mayank Baranwal in the Data and Decision Sciences RA
 - Focusing on developing artificial intelligence-driven control systems to ensure the resilient and efficient operation of power networks and supply chain operations
 - Research Interests: Artificial Intelligence, Power Systems, Reinforcement Learning, Graph Neural Networks, and
@@ -46,10 +46,10 @@ Supply Chains
 
 
 ## Awards & Honours
-- Third prize, Learning to Run Power Network (L2RPN), RTE France and TU Delft, The Netherlands 2023
-- Platinum Award, Best Technology in Distribution, India Smart Grid Forum (ISGF), 2023
-- Gold Award, Best Technology in Transmission, India Smart Grid Forum (ISGF), 2023
-- POSOCO Power Systems Award for M.Tech thesis, Grid-India(formerly POSOCO) and FITT, 2021
+- **Third prize**, Learning to Run Power Network (L2RPN), RTE France and TU Delft, The Netherlands 2023
+- **Platinum Award**, Best Technology in Distribution, India Smart Grid Forum (ISGF), 2023
+- **Gold Award**, Best Technology in Transmission, India Smart Grid Forum (ISGF), 2023
+- **POSOCO Power Systems Award** for M.Tech thesis, Grid-India (formerly POSOCO) and FITT, 2021
 
 ## Scholastic Achievements
 - Director Fellowship during M.Tech, 2018-2020
@@ -58,17 +58,17 @@ Supply Chains
 - 99.13 Percentile in Electrical Enginerring, GATE 2019
 
 ## Publications
-1. Chauhan, A., Baranwal, M. and Basumatary, A., 2023. PowRL: A Reinforcement Learning Framework for Robust Management of Power Networks. Proceedings of the AAAI Conference on Artificial Intelligence, 2023. AAAI. [Acceptance Rate - 19.2%] doi:10.1609/aaai.v37i12.26724
-2. Chauhan, A., Shelke, O., Pathakota, P., Meisheri, H., Khadilkar, H., and Ravindran, B. A Learning Approach for Discovering Cost-Efficient Integrated Sourcing and Routing Strategies in E-Commerce. Accepted at Applied Data Science track at CODS-COMAD 2024.
-3. Shelke, O., Pathakota, P., Chauhan, A., Meisheri, H., Khadilkar, H., and Ravindran, B. Multi-Agent Learning of Efficient Fulfilment and Routing Strategies in E-Commerce, Accepted at NeurIPS Generalization in Planning workshop 2023.
+1. **Chauhan, A.**, Baranwal, M. and Basumatary, A., 2023. PowRL: A Reinforcement Learning Framework for Robust Management of Power Networks. Proceedings of the AAAI Conference on Artificial Intelligence, 2023. AAAI. [Acceptance Rate - 19.2%] doi:10.1609/aaai.v37i12.26724
+2. **Chauhan, A.**, Shelke, O., Pathakota, P., Meisheri, H., Khadilkar, H., and Ravindran, B. A Learning Approach for Discovering Cost-Efficient Integrated Sourcing and Routing Strategies in E-Commerce. Accepted at Applied Data Science track at CODS-COMAD 2024.
+3. Shelke, O., Pathakota, P., **Chauhan, A.**, Meisheri, H., Khadilkar, H., and Ravindran, B. Multi-Agent Learning of Efficient Fulfilment and Routing Strategies in E-Commerce, Accepted at NeurIPS Generalization in Planning workshop 2023.
 4. R. B. Kuhada, Chauhan, A.,, and N. M. Pindoriya, Real-time simulation of V2G operation for EV battery, 21st National Power Systems Conference (NPSC), 2020 doi: 10.1109/NPSC49263.2020.9331873
-5. Pal, A., Ojha, A., Chauhan, A., and Baranwal, M. Heuristic-guided Reinforcement Learning for Multi-robot Task Allocation in Dynamic Warehouse Environments. (Submitted at the Proceedings of the Autonomous Agents and Multiagent Systems(AAMAS), 2024.)
-6. Chauhan, A., Suthar, S., Kuhada, R., Cherukuri, S., and Pindoriya, N., Peer-to-Peer Energy Trading Framework: An Experimental Evaluation (Under Review)
+5. Pal, A., Ojha, A., **Chauhan, A.**, and Baranwal, M. Heuristic-guided Reinforcement Learning for Multi-robot Task Allocation in Dynamic Warehouse Environments. (Submitted at the Proceedings of the Autonomous Agents and Multiagent Systems(AAMAS), 2024.)
+6. **Chauhan, A.**, Suthar, S., Kuhada, R., Cherukuri, S., and Pindoriya, N., Peer-to-Peer Energy Trading Framework: An Experimental Evaluation (Under Review)
 
 ## Patents
-1. Chauhan, A., Baranwal, M., 2023. Reinforcement Learning and heuritsic based real time power grid management , U.S. Patent 18/348,952 filed July 7, 2023. Patent filed
-2. Chauhan, A., Baranwal, M., 2022. Reinforcement Learning and heuritsic based real time power grid management, India Patent 202221069773 filed Dec 2, 2022. Patent filed
-3. Pindoriya, N., Chauhan, A., Kuhada R., Jha M., 2022. Universal IoT based smart energy management device, India Patent 202221028935 Patent under review
+1. **Chauhan, A.**, Baranwal, M., 2023. Reinforcement Learning and heuritsic based real time power grid management , U.S. Patent 18/348,952 filed July 7, 2023. Patent filed
+2. **Chauhan, A.**, Baranwal, M., 2022. Reinforcement Learning and heuritsic based real time power grid management, India Patent 202221069773 filed Dec 2, 2022. Patent filed
+3. Pindoriya, N., **Chauhan, A.**, Kuhada R., Jha M., 2022. Universal IoT based smart energy management device, India Patent 202221028935 (Patent under review)
 
 ## Technical Skills:
 - Computer Programming: Python, PyTorch, Tensorflow, MATLAB, HTML, SQL
