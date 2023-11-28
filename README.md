@@ -11,14 +11,14 @@ You can contact me at: [anandsingh.chauhan@alumni.iitgn.ac.in](mailto:anandsingh
 
 - **M.Tech. , Electrical Engineering, [Indian Institute of Technology Gandhinagar](https://iitgn.ac.in/) (_July 2018_ -- _August 2020_)**
   
-    - CPI     : 9.43/10.0
+    - CPI     : [9.43/10.0](/files/MTech Transcript.pdf)
     - Thesis  : [Peer to Peer Energy Trading Platform: Hardware and Software Integration](/files/Mtech_Thesis_Anandsingh_Chauhan.pdf)
     - Advisor : [Dr. Naran Pindoriya](https://naran.people.iitgn.ac.in/)
 
         
 - **B.E., Electrical Engineering, [L.D. College of Engineering](https://ldce.ac.in/) (_August 2014_ -- _June 2018_)**
 
-    - CPI     : 9.05/10.0 			        		
+    - CPI     : [9.05/10.0](/files/btech_transcript.pdf) 			        		
 
 ## Work Experience
 
