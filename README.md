@@ -1,37 +1,37 @@
 
 # Curriculum Vitae
 <p align="justify"> 
-
-Please see a summary of my experience and accomplishments below, you can also view my full cv as a pdf [here](/files/Anand_Resume.pdf).
+Please see a summary of my experience and accomplishments below, you can also view my full cv as a pdf </p>
+[here](/files/Anand_Resume.pdf).
 
 
 You can contact me at: [anandsingh.chauhan@alumni.iitgn.ac.in](mailto:anandsingh.chauhan@alumni.iitgn.ac.in) or connect to LinkedIn at : [Anandsingh Chauhan](https://www.linkedin.com/in/anandsingh3996/)
-</p>
 
 # Researcher
 <p align="justify"> 
-
 I'm currently a Researcher at TCS Research in the Data and Decision Sciences Research Area. My work is fueled by a genuine passion for harnessing the potential of machine learning and operational research to address complex, real-world challenges. Throughout my career, I've been dedicated to bridging the gap between theory and practical solutions, and I bring with me a wide-ranging skill set that covers various domains. This includes my in-depth expertise in reinforcement learning and its diverse applications, ranging from robust power network control to optimizing supply chains, facilitating peer-to-peer energy trading, and remaining at the cutting edge of innovations in electric vehicle technology. 
 </p>
 
 ## Education
-<p align="justify"> 
 
 - **M.Tech. , Electrical Engineering, Indian Institute of Technology Gandhinagar (_July 2018_ -- _August 2020_)**
   
+  
+    <p align="justify"> 
     - CPI     : 9.43/10.0
     - Thesis  : Peer to Peer Energy Trading Platform: Hardware and Software Integration
     - Advisor : Dr. Naran Pindoriya
+    </p>
+
         
 - **B.E., Electrical Engineering, L.D. College of Engineering (_August 2014_ -- _June 2018_)**
 
     - CPI     : 9.05/10.0 			        		
-</p>
 
 ## Work Experience
-<p align="justify"> 
 
 **Researcher @ Data & Decision Sciences, Tata Consultancy Services Limited - Research (_September 2020 - Present_)**
+<p align="justify">
 - Conducting research under the guidance of Dr. Mayank Baranwal in the Data and Decision Sciences RA
 - Focusing on developing artificial intelligence-driven control systems to ensure the resilient and efficient operation of power networks and supply chain operations
 - Research Interests: Artificial Intelligence, Power Systems, Reinforcement Learning, Graph Neural Networks, and
@@ -42,22 +42,22 @@ Supply Chains
 
 ### AI Powered Control and Management of Power Networks 
 <p align="justify"> 
-
 - We develop a RL framework, PowRL, to mitigate the effects of unexpected network events, as well as reliably maintain electricity everywhere on the network at all times. The PowRL leverages a novel heuristic for overload management, along with the RL-guided decision making on optimal topology selection to ensure that the grid is operated safely and reliably (with no overloads). Even with its reduced action space, PowRL tops the leaderboard in the L2RPN NeurIPS 2020 challenge (Robustness track) at an aggregate level, while also being the top performing agent in the L2RPN WCCI 2020 challenge. he extension of this work focuses on the development of neural network based learning framework for the optimal generator dispatch and battery scheduling.
-![PowRL Framework](/assets/img/System-and-method.png)
 </p>
+
+![PowRL Framework](/assets/img/System-and-method.png)
 
 ### Cost-Efficient Multi Node, Multi Product Order Fulfillment in E-commerce
 <p align="justify"> 
 
 - We develop an innovative algorithmic framework to optimize cost-to-serve (CTS) in e-commerce, addressing the challenge of efficiently fulfilling dynamically generated orders from multiple customers across various warehouses and vehicle fleets. This project incorporated a two-level decision-making process: firstly, selecting the optimal fulfillment node for each order (including deferral options), and secondly, routing vehicles efficiently to deliver orders from the same warehouse. Our approach combined graph neural networks, reinforcement learning, for node fulfillment and vehicle routing, while considering real-world constraints such as warehouse inventory capacity, vehicle characteristics, and customer delivery time windows.
+</p>
+
 ![E-Commerce Supply Chain Illustration](/assets/img/E-commerce-supply-chain.jpg)
 ![VRP-C2S Framework](/assets/img/RL-Pipeline.png)
-</p>
 
 ### Multi-Robot Task Allocation in a Dynamic Warehouse Management
 <p align="justify"> 
-
 - We addressed the challenge of optimizing productivity in modern warehousing by developing a heuristic-guided Reinforcement Learning(RL) agent. The project aimed to minimize both robot travel distance and task execution delays while considering practical constraints like charging/discharging and collision-free navigation. The developed RL based framework outperformed industry-standard practices such as FIFO and a myopic greedy heuristic. This innovative approach enhances efficiency and operational agility in dynamic warehousing environments.
 </p>
 
@@ -71,30 +71,25 @@ Supply Chains
 <p align="justify"> 
 
 - Contributed to the establishment of a cutting-edge hardware and software platform for Peer-to-Peer (P2P) energy trading at IIT Gandhinagar. The project centered around creating a real-world testbed involving two prosumers (Peer A and Peer B) and a consumer (Peer C). Peer A utilized solar PV and battery energy storage, while Peer B featured electric vehicle (EV) charging capabilities with Vehicle-to-Grid (V2G) functionality. Additionally, the testbed seamlessly interfaced with a Blockchain-based digital platform to demonstrate Peer-to-Peer energy trading in a practical environment. This work aligns with the evolving energy sector’s transformation, facilitating the integration of renewables, operational efficiency improvement, and transactive energy dynamics.
-![P2P Energy Trading Testbed](/assets/img/P2P-Trading.jpg)
-
 </p>
 
-## Awards & Honours
-<p align="justify"> 
+![P2P Energy Trading Testbed](/assets/img/P2P-Trading.jpg)
 
+## Awards & Honours
+  
 - **Third prize**, Learning to Run Power Network (L2RPN), RTE France and TU Delft, The Netherlands 2023
 - **Platinum Award**, Best Technology in Distribution, India Smart Grid Forum (ISGF), 2023
 - **Gold Award**, Best Technology in Transmission, India Smart Grid Forum (ISGF), 2023
 - **POSOCO Power Systems Award** for M.Tech thesis, Grid-India (formerly POSOCO) and FITT, 2021
-</p>
 
 ## Scholastic Achievements
-<p align="justify"> 
 
 - Director Fellowship during M.Tech, 2018-2020
 - Certificate of Academic Excellence during B.E., 2017
 - Prime Minister Scholarship Scheme during B.E., 2014-2018
 - 99.13 Percentile in Electrical Enginerring, GATE 2019
-</p>
 
 ## Publications
-<p align="justify"> 
 
 1. **Chauhan, A.**, Baranwal, M. and Basumatary, A., 2023. [PowRL: A Reinforcement Learning Framework for Robust Management of Power Networks. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2023](https://ojs.aaai.org/index.php/AAAI/article/view/26724)
 2. **Chauhan, A.**, Shelke, O., Pathakota, P., Meisheri, H., Khadilkar, H., and Ravindran, B., A Learning Approach for Discovering Cost-Efficient Integrated Sourcing and Routing Strategies in E-Commerce, Accepted at Applied Data Science track at CODS-COMAD 2024.
@@ -102,20 +97,15 @@ Supply Chains
 4. R. B. Kuhada, **Chauhan, A.**, and N. M. Pindoriya, [Real-time simulation of V2G operation for EV battery](https://ieeexplore.ieee.org/document/9331873), 21st National Power Systems Conference (NPSC), 2020
 5. Pal, A., Ojha, A., **Chauhan, A.**, and Baranwal, M., Heuristic-guided Reinforcement Learning for Multi-robot Task Allocation in Dynamic Warehouse Environments, (Submitted at the Proceedings of the Autonomous Agents and Multiagent Systems(AAMAS), 2024.)
 6. **Chauhan, A.**, Suthar, S., Kuhada, R., Cherukuri, S., and Pindoriya, N., Peer-to-Peer Energy Trading Framework: An Experimental Evaluation, (Under Review)
-</p>
 
 ## Patents
-<p align="justify"> 
 
 1. **Chauhan, A.**, Baranwal, M., 2023. Reinforcement Learning and Heuritsic based Real Time Power Grid Management, U.S. Patent 18/348,952 filed July 7, 2023. Patent filed
 2. **Chauhan, A.**, Baranwal, M., 2022. Reinforcement Learning and Heuritsic based Real Time Power Grid Management, India Patent 202221069773 filed Dec 2, 2022. Patent filed
 3. Pindoriya, N., **Chauhan, A.**, Kuhada R., Jha M., 2022. Universal IoT based Smart Energy Management Device, India Patent 202221028935 (Patent under review)
-</p>
 
 ## Technical Skills:
-<p align="justify"> 
 
 - Computer Programming: Python, PyTorch, Tensorflow, MATLAB, HTML, SQL
 - Other Professional Software Skills: Simulink, PSSE, LATEX
 - Hardware Skills: Lab-Volt, OPAL-RT, Raspberry Pi
-</p>
