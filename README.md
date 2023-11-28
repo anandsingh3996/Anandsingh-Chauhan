@@ -24,7 +24,7 @@ You can contact me at: [anandsingh.chauhan@alumni.iitgn.ac.in](mailto:anandsingh
 
 **Researcher @ Data & Decision Sciences, Tata Consultancy Services Limited - Research (_September 2020 - Present_)**
 
-- <p align="justify"> Conducting research under the guidance of </p>[Dr. Mayank Baranwal](https://www.sc.iitb.ac.in/~mayank/) <p align="justify"> in the Data and Decision Sciences RA</p>
+- Conducting research under the guidance of [Dr. Mayank Baranwal](https://www.sc.iitb.ac.in/~mayank/) in the Data and Decision Sciences Research Area
 - <p align="justify"> Focusing on developing artificial intelligence-driven control systems to ensure the resilient and efficient operation of power networks and supply chain operations</p>
 - <p align="justify">Research Interests: Artificial Intelligence, Power Systems, Reinforcement Learning, Graph Neural Networks, and Supply Chains </p>
 
