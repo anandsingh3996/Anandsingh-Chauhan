@@ -84,7 +84,7 @@ You can contact me at: [anandsingh.chauhan@alumni.iitgn.ac.in](mailto:anandsingh
 
 1. **Chauhan, A.**, Baranwal, M., 2023. Reinforcement Learning and Heuritsic based Real Time Power Grid Management, [Patent US 2024/0186789 A1](https://patentimages.storage.googleapis.com/d7/9d/88/baae55356ee66b/US20240186789A1.pdf)
 2. **Chauhan, A.**, Baranwal, M., 2022. Reinforcement Learning and Heuritsic based Real Time Power Grid Management, India Patent 202221069773 (Published dated Jub 7, 2024)
-3. Pindoriya, N., **Chauhan, A.**, Kuhada R., Jha M., 2022. Universal IoT based Smart Energy Management Device, India Patent 202221028935 (Published dated Nov 23, 2023)
+3. Pindoriya, N., **Chauhan, A.**, Kuhada R., Jha M., 2022. Universal IoT based Smart Energy Management Device, India Patent 202221028935 (Published dated Nov 24, 2023)
 
 ## Technical Skills:
 
