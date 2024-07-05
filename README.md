@@ -14,7 +14,7 @@ You can contact me at: [anandsingh.chauhan@alumni.iitgn.ac.in](mailto:anandsingh
 - **M.Tech. , Electrical Engineering, [Indian Institute of Technology Gandhinagar](https://iitgn.ac.in/) (_July 2018_ -- _August 2020_)**
   
     - CPI     : [9.43/10.0](/files/MTech_Transcript.pdf)
-    - Thesis  : [Peer to Peer Energy Trading Platform: Hardware and Software Integration](/files/Mtech_Thesis_Anandsingh_Chauhan.pdf)
+    - Thesis  : [Peer to Peer Energy Trading Platform: Hardware and Software Integration] %(/files/Mtech_Thesis_Anandsingh_Chauhan.pdf)
     - Advisor : [Dr. Naran Pindoriya](https://naran.people.iitgn.ac.in/)
 
         
@@ -56,7 +56,7 @@ You can contact me at: [anandsingh.chauhan@alumni.iitgn.ac.in](mailto:anandsingh
 ![P2P Energy Trading Testbed](/assets/img/P2P-Trading.jpg)
 
 ## Awards & Honours
-  
+- **Certificate of Merit**, Adoption of AI, ML and Robotic Solution, India Smart Grid Forum (ISGF), 2024
 - **Third prize**, Learning to Run Power Network (L2RPN), RTE France and TU Delft, The Netherlands 2023
 - **Platinum Award**, Best Technology in Distribution, India Smart Grid Forum (ISGF), 2023
 - **Gold Award**, Best Technology in Transmission, India Smart Grid Forum (ISGF), 2023
@@ -72,17 +72,18 @@ You can contact me at: [anandsingh.chauhan@alumni.iitgn.ac.in](mailto:anandsingh
 ## Publications
 
 1. **Chauhan, A.**, Baranwal, M. and Basumatary, A., 2023. [PowRL: A Reinforcement Learning Framework for Robust Management of Power Networks. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2023](https://ojs.aaai.org/index.php/AAAI/article/view/26724)
-2. Shelke, O., Pathakota, P., **Chauhan, A.**, Meisheri, H., Khadilkar, H., and Ravindran, B., [A Learning Approach for Discovering Cost-Efficient Integrated Sourcing and Routing Strategies in E-Commerce](https://dl.acm.org/doi/10.1145/3632410.3632426), Accepted at Applied Data Science track at CODS-COMAD 2024.
-3. Shelke, O., Pathakota, P., **Chauhan, A.**, Meisheri, H., Khadilkar, H., and Ravindran, B., [Multi-Agent Learning of Efficient Fulfilment and Routing Strategies in E-Commerce](https://openreview.net/pdf?id=P6ancmHdwH), Accepted at NeurIPS Generalization in Planning workshop 2023.
-4. R. B. Kuhada, **Chauhan, A.**, and N. M. Pindoriya, [Real-time simulation of V2G operation for EV battery](https://ieeexplore.ieee.org/document/9331873), 21st National Power Systems Conference (NPSC), 2020
-5. Pal, A., Ojha, A., **Chauhan, A.**, and Baranwal, M., Heuristic-guided Reinforcement Learning for Multi-robot Task Allocation in Dynamic Warehouse Environments, (Submitted at the International Joint Conference on Artificial  Intelligence (IJCAI), 2024.)
-6. **Chauhan, A.**, Suthar, S., Kuhada, R., Cherukuri, S., and Pindoriya, N., Peer-to-Peer Energy Trading Framework: An Experimental Evaluation, (Under Review)
+2. Pal, A., **Chauhan, A.**, Baranwal, M., and Ojha, A., Heuristic-guided Reinforcement Learning for Multi-robot Task Allocation in Dynamic Warehouse Environments. Proceedings of the European Conference onArtificial Intelligence (ECAI), 2024.
+3. Shelke, O., Pathakota, P., **Chauhan, A.**, Meisheri, H., Khadilkar, H., and Ravindran, B., [A Learning Approach for Discovering Cost-Efficient Integrated Sourcing and Routing Strategies in E-Commerce](https://dl.acm.org/doi/10.1145/3632410.3632426), Accepted at Applied Data Science track at CODS-COMAD 2024.
+4. Shelke, O., Pathakota, P., **Chauhan, A.**, Meisheri, H., Khadilkar, H., and Ravindran, B., [Multi-Agent Learning of Efficient Fulfilment and Routing Strategies in E-Commerce](https://openreview.net/pdf?id=P6ancmHdwH), Accepted at NeurIPS Generalization in Planning workshop 2023.
+5. R. B. Kuhada, **Chauhan, A.**, and N. M. Pindoriya, [Real-time simulation of V2G operation for EV battery](https://ieeexplore.ieee.org/document/9331873), 21st National Power Systems Conference (NPSC), 2020
+6. Pal, A., Ojha, A., **Chauhan, A.**, and Baranwal, M., Heuristic-guided Reinforcement Learning for Multi-robot Task Allocation in Dynamic Warehouse Environments, (Submitted at the International Joint Conference on Artificial  Intelligence (IJCAI), 2024.)
+7. **Chauhan, A.**, Suthar, S., Kuhada, R., Cherukuri, S., and Pindoriya, N., Peer-to-Peer Energy Trading Framework: An Experimental Evaluation, (Under Review)
 
 ## Patents
 
-1. **Chauhan, A.**, Baranwal, M., 2023. Reinforcement Learning and Heuritsic based Real Time Power Grid Management, U.S. Patent 18/348,952 filed July 7, 2023. Patent filed
-2. **Chauhan, A.**, Baranwal, M., 2022. Reinforcement Learning and Heuritsic based Real Time Power Grid Management, India Patent 202221069773 filed Dec 2, 2022. Patent filed
-3. Pindoriya, N., **Chauhan, A.**, Kuhada R., Jha M., 2022. Universal IoT based Smart Energy Management Device, India Patent 202221028935 (Patent under review)
+1. **Chauhan, A.**, Baranwal, M., 2023. Reinforcement Learning and Heuritsic based Real Time Power Grid Management, [Patent US 2024/0186789 A1](https://patentimages.storage.googleapis.com/d7/9d/88/baae55356ee66b/US20240186789A1.pdf)
+2. **Chauhan, A.**, Baranwal, M., 2022. Reinforcement Learning and Heuritsic based Real Time Power Grid Management, India Patent 202221069773 (Published dated Jub 7, 2024)
+3. Pindoriya, N., **Chauhan, A.**, Kuhada R., Jha M., 2022. Universal IoT based Smart Energy Management Device, India Patent 202221028935 (Published dated Nov 23, 2023)
 
 ## Technical Skills:
 
