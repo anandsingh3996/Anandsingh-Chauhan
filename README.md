@@ -74,10 +74,10 @@ You can contact me at: [anandsingh.chauhan@alumni.iitgn.ac.in](mailto:anandsingh
 
 1. **Chauhan, A.**, Baranwal, M. and Basumatary, A., 2023. [PowRL: A Reinforcement Learning Framework for Robust Management of Power Networks](https://ojs.aaai.org/index.php/AAAI/article/view/26724) Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2023
 2. Pal, A., **Chauhan, A.**, Baranwal, M., and Ojha, A., Heuristic-guided Reinforcement Learning for Multi-robot Task Allocation in Dynamic Warehouse Environments. Proceedings of the European Conference onArtificial Intelligence (ECAI), 2024.
-3. Shelke, O., Pathakota, P., **Chauhan, A.**, Meisheri, H., Khadilkar, H., and Ravindran, B., [A Learning Approach for Discovering Cost-Efficient Integrated Sourcing and Routing Strategies in E-Commerce](https://dl.acm.org/doi/10.1145/3632410.3632426), Accepted at Applied Data Science track at CODS-COMAD 2024.
-4. Shelke, O., Pathakota, P., **Chauhan, A.**, Meisheri, H., Khadilkar, H., and Ravindran, B., [Multi-Agent Learning of Efficient Fulfilment and Routing Strategies in E-Commerce](https://openreview.net/pdf?id=P6ancmHdwH), Accepted at NeurIPS Generalization in Planning workshop 2023.
-5. R. B. Kuhada, **Chauhan, A.**, and N. M. Pindoriya, [Real-time simulation of V2G operation for EV battery](https://ieeexplore.ieee.org/document/9331873), 21st National Power Systems Conference (NPSC), 2020
-6. **Chauhan, A.**, Suthar, S., Kuhada, R., Cherukuri, S., and Pindoriya, N., Peer-to-Peer Energy Trading Framework: An Experimental Evaluation, (Submitted at the ISGF Asia 2024)
+3. Shelke, O.^(*), Pathakota, P.^(*), **Chauhan, A.**^(*), Meisheri, H., Khadilkar, H., and Ravindran, B., [A Learning Approach for Discovering Cost-Efficient Integrated Sourcing and Routing Strategies in E-Commerce](https://dl.acm.org/doi/10.1145/3632410.3632426), Accepted at Applied Data Science track at CODS-COMAD 2024.
+5. Shelke, O., Pathakota, P., **Chauhan, A.**, Meisheri, H., Khadilkar, H., and Ravindran, B., [Multi-Agent Learning of Efficient Fulfilment and Routing Strategies in E-Commerce](https://openreview.net/pdf?id=P6ancmHdwH), Accepted at NeurIPS Generalization in Planning workshop 2023.
+6. R. B. Kuhada, **Chauhan, A.**, and N. M. Pindoriya, [Real-time simulation of V2G operation for EV battery](https://ieeexplore.ieee.org/document/9331873), 21st National Power Systems Conference (NPSC), 2020
+7. **Chauhan, A.**, Suthar, S., Kuhada, R., Cherukuri, S., and Pindoriya, N., Peer-to-Peer Energy Trading Framework: An Experimental Evaluation, (Submitted at the ISGF Asia 2024)
 
 ## Patents
 
