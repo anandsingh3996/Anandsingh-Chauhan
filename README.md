@@ -78,7 +78,7 @@ You can contact me at: [anandsingh.chauhan@alumni.iitgn.ac.in](mailto:anandsingh
 4. Shelke, O., Pathakota, P., **Chauhan, A.**, Meisheri, H., Khadilkar, H., and Ravindran, B., [Multi-Agent Learning of Efficient Fulfilment and Routing Strategies in E-Commerce](https://openreview.net/pdf?id=P6ancmHdwH), Accepted at NeurIPS Generalization in Planning workshop 2023.
 5. R. B. Kuhada, **Chauhan, A.**, and N. M. Pindoriya, [Real-time simulation of V2G operation for EV battery](https://ieeexplore.ieee.org/document/9331873), 21st National Power Systems Conference (NPSC), 2020
 6. Pal, A., Ojha, A., **Chauhan, A.**, and Baranwal, M., Heuristic-guided Reinforcement Learning for Multi-robot Task Allocation in Dynamic Warehouse Environments, (Submitted at the International Joint Conference on Artificial  Intelligence (IJCAI), 2024.)
-7. **Chauhan, A.**, Suthar, S., Kuhada, R., Cherukuri, S., and Pindoriya, N., Peer-to-Peer Energy Trading Framework: An Experimental Evaluation, (Under Review)
+7. **Chauhan, A.**, Suthar, S., Kuhada, R., Cherukuri, S., and Pindoriya, N., Peer-to-Peer Energy Trading Framework: An Experimental Evaluation, (Submitted at the ISGF Asia 2024)
 
 ## Patents
 
