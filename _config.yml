@@ -7,7 +7,7 @@ github_username: anandsingh3996
 linkedin_username: anandsingh3996
 
 # Build settings
-theme: "minimal-mistakes-jekyll"
+theme: minimal-mistakes-jekyll
 
 plugins:
   - jekyll-feed
